@@ -1,0 +1,17 @@
+.container{
+    transform: translateX(30%);
+   
+    width: 80%;
+   
+    
+}
+.d-flex{
+    
+}
+.img{
+height: 10vh;
+}
+.main a{
+text-decoration: none;
+width: 25%;
+}
